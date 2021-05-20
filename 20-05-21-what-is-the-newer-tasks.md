@@ -1,12 +1,12 @@
 ---
 layout: basic
-title: What is Tasks
-subtitle: How to build a great Indie App
-description: How to build a great Indie App's des
+title: What is the newer Tasks
+subtitle: How to build a great Indie App newer
+description: How to build a great Indie App's newer des
 date: 20-05-21 09:00:00
 category: buisness
-permalink: /post/what-is-tasks
-image: https://wallpaperaccess.com/full/2493466.jpg
+permalink: /post/what-is-tasks-the-newer-tasks
+image: https://wallpaperaccess.com/full/2493432.jpg
 ---
 
 Plan, organize and collaborate your personal and professional projects with ease. Import tasks from your notes or reminders with a one tap setup.
