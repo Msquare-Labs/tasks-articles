@@ -1,11 +1,11 @@
 ---
 layout: basic,
-title: What is Tasks,
-subtitle: How to build a great Indie App,
-description: How to build a great Indie App's des,
-date: 20-05-21 09.00.00,
-category: buisness,
-permalink: /post/what-is-tasks,
+title: What is Tasks
+subtitle: How to build a great Indie App
+description: How to build a great Indie App's des
+date: 20-05-21 09.00.00
+category: buisness
+permalink: /post/what-is-tasks
 image: wallpaperaccess.com/full/2493466.jpg
 ---
 

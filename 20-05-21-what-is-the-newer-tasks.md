@@ -1,11 +1,11 @@
 ---
-layout: basic,
-title: What is the newer Tasks,
-subtitle: How to build a great Indie App newer,
-description: How to build a great Indie App's newer des,
-date: 20-05-21 09.00.00,
-category: buisness,
-permalink: /post/what-is-tasks-the-newer-tasks,
+layout: basic
+title: What is the newer Tasks
+subtitle: How to build a great Indie App newer
+description: How to build a great Indie App's newer des
+date: 20-05-21 09.00.00
+category: buisness
+permalink: /post/what-is-tasks-the-newer-tasks
 image: wallpaperaccess.com/full/2493432.jpg
 ---
 
